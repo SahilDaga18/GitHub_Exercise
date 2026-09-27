@@ -1,0 +1,2 @@
+This is another file inside Folder.
+It was added in a separate commit.
