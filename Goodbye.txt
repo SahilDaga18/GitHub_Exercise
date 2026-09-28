@@ -1,0 +1,2 @@
+Goodbye! This file lives on the new branch.
+It was created before Folder existed.
